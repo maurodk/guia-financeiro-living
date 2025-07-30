@@ -1,73 +1,50 @@
-# Welcome to your Lovable project
+# 🗾 Calculadora de Custos para Intercâmbio no Japão
+Este projeto tem como objetivo auxiliar futuros intercambistas a planejarem seus gastos no Japão. A ferramenta realiza o cálculo dos custos totais com base em opções de escolas, moradias, passagens e taxas, apresentando valores estimados em Ienes (¥) e convertendo automaticamente para Reais (R$).
 
-## Project info
+A calculadora foi desenvolvida utilizando como referência os dados da assessoria Living In Japan, oferecendo uma estimativa fiel dos custos envolvidos em um intercâmbio no país.
+---
+✨ Funcionalidades
+Seleção de escolas com valores já incluídos:
 
-**URL**: https://lovable.dev/projects/7cc8753e-0d3c-4dd1-9e5d-719a17545e49
+Taxa de seleção
 
-## How can I edit this code?
+Primeiro semestre de mensalidade
 
-There are several ways of editing your application.
+Transporte
 
-**Use Lovable**
+Escolha do tipo de acomodação (semestre completo).
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/7cc8753e-0d3c-4dd1-9e5d-719a17545e49) and start prompting.
+Conversão em tempo real de valores de Ienes (¥) para Reais (R$).
 
-Changes made via Lovable will be committed automatically to this repo.
+Cálculo do Total Estimado e Média Total dos gastos.
 
-**Use your preferred IDE**
+Tabelas com todos os valores detalhados de acordo com cada opção escolhida.
+---
+📊 Estrutura dos custos
+Para cada intercambista, a ferramenta considera:
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Escolas
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Taxa de seleção
 
-Follow these steps:
+Semestre letivo
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Transporte
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Moradias
 
-# Step 3: Install the necessary dependencies.
-npm i
+Acomodação por semestre
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Tipos de dormitório
 
-**Edit a file directly in GitHub**
+Custos adicionais (opcionais)
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Passagem aérea
 
-**Use GitHub Codespaces**
+Assessoria
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Resumo final
 
-## What technologies are used for this project?
+Total estimado
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/7cc8753e-0d3c-4dd1-9e5d-719a17545e49) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Média total mensal
