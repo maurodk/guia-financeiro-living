@@ -3,48 +3,25 @@ Este projeto tem como objetivo auxiliar futuros intercambistas a planejarem seus
 
 A calculadora foi desenvolvida utilizando como referência os dados da assessoria Living In Japan, oferecendo uma estimativa fiel dos custos envolvidos em um intercâmbio no país.
 ---
-✨ Funcionalidades
+### ✨ Funcionalidades
 Seleção de escolas com valores já incluídos:
 
 Taxa de seleção
-
 Primeiro semestre de mensalidade
-
 Transporte
-
 Escolha do tipo de acomodação (semestre completo).
-
-Conversão em tempo real de valores de Ienes (¥) para Reais (R$).
-
+Conversão de valores de Ienes (¥) para Reais (R$).
 Cálculo do Total Estimado e Média Total dos gastos.
-
 Tabelas com todos os valores detalhados de acordo com cada opção escolhida.
 ---
-📊 Estrutura dos custos
+### 📊 Estrutura dos custos
 Para cada intercambista, a ferramenta considera:
 
-Escolas
+-> Escolas;
+-> Acomodação por semestre quando não incluso na escola;
+-> Taxas adicionais das escolas;
+-> Custos adicionais (valor da assessoria, passagem aérea, transporte e alimentação);
+-> Comprovação de Saldo do Dia;
+-> Comprovação de Renda Anual;
+-> Total de gastos estimado de acordo o tempo de intercâmbio (em ¥ e R$)
 
-Taxa de seleção
-
-Semestre letivo
-
-Transporte
-
-Moradias
-
-Acomodação por semestre
-
-Tipos de dormitório
-
-Custos adicionais (opcionais)
-
-Passagem aérea
-
-Assessoria
-
-Resumo final
-
-Total estimado
-
-Média total mensal
