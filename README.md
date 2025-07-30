@@ -18,10 +18,16 @@ Tabelas com todos os valores detalhados de acordo com cada opção escolhida.
 Para cada intercambista, a ferramenta considera:
 
 -> Escolas;
+
 -> Acomodação por semestre quando não incluso na escola;
+
 -> Taxas adicionais das escolas;
+
 -> Custos adicionais (valor da assessoria, passagem aérea, transporte e alimentação);
+
 -> Comprovação de Saldo do Dia;
+
 -> Comprovação de Renda Anual;
+
 -> Total de gastos estimado de acordo o tempo de intercâmbio (em ¥ e R$)
 
