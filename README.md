@@ -7,12 +7,19 @@ A calculadora foi desenvolvida utilizando como referência os dados da assessori
 Seleção de escolas com valores já incluídos:
 
 Taxa de seleção
+
 Primeiro semestre de mensalidade
+
 Transporte
+
 Escolha do tipo de acomodação (semestre completo).
+
 Conversão de valores de Ienes (¥) para Reais (R$).
+
 Cálculo do Total Estimado e Média Total dos gastos.
+
 Tabelas com todos os valores detalhados de acordo com cada opção escolhida.
+
 ---
 ### 📊 Estrutura dos custos
 Para cada intercambista, a ferramenta considera:
